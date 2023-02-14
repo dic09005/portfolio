@@ -1,0 +1,1 @@
+document.querySelector("#timestamp").innerHTML = document.lastModified;
